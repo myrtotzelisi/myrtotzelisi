@@ -16,9 +16,8 @@ Skills: REACT / JS / HTML / CSS/ <br> <br>
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 
 ---
-- 🔭 I’m currently working on this page. 
-- 😄 Pronouns: She/Her 
-- ⚡ Fun fact: I am a huge Bach admirer and I recently became a One Piece fan! 
+- 🔭 I’m currently working on different React projects. 
+- 😄 Pronouns: She/Her  
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/myrtotzelisi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/myrto-tzelisi/)  
