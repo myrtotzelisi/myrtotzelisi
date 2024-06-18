@@ -1,10 +1,10 @@
 ### Hi there 👋, I'm Myrto Tzelisi
 #### Developer and Designer
-![Developer and Designer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
+---
 I am developer from Greece based in the Netherlands. Web design combines two very important parts of me: creativity and structured thinking. I love designing neat and welcoming websites using WordPress. I enjoy experimenting with CSS and exploring new ways with React. 
 
-Skills: REACT / JS / HTML / CSS/ <br>
+Skills: REACT / JS / HTML / CSS/ <br> <br>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -16,7 +16,7 @@ Skills: REACT / JS / HTML / CSS/ <br>
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 
-
+---
 - 🔭 I’m currently working on this page. 
 - 😄 Pronouns: She/Her 
 - ⚡ Fun fact: I am a huge Bach admirer and I recently became a One Piece fan! 
