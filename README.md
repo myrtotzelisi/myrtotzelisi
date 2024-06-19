@@ -1,7 +1,7 @@
 <img src="https://github.com/myrtotzelisi/myrtotzelisi/blob/main/Banner.gif" alt="Profile Image" width=100%/>
 
 ---
-I am **developer** and **designer** from Greece based in the Netherlands. Web design combines two very important parts of me: *creativity* and *structured thinking*. I love designing neat and welcoming websites using WordPress. I enjoy experimenting with CSS and exploring new ways of creating applications with React. 
+I am a **developer** and **designer** from Greece based in the Netherlands. Web design combines two very important parts of me: *creativity* and *structured thinking*. I love designing neat and welcoming websites using WordPress. I enjoy experimenting with CSS and exploring new ways of creating applications with React. 
 
 **Skills:** REACT / JS / HTML / CSS/ WORDPRESS <br> <br>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
